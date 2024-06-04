@@ -19,7 +19,7 @@ in the data folder (pdfs, excels and docs)
 `./scripts/prepdocs.ps1` uncomment line `--removeall`
 
 ## to run locally
-``
+`cd app && ./start.ps1`
 
 ## frontend url 
 should be printed in the logs upon completing `az up`
